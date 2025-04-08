@@ -9,7 +9,7 @@ function init() {
     const inputValue = input.value;
 
     // Show alert with your name and the input value
-    alert("Your Name: " + inputValue);
+    alert("Dereck Gray: " + inputValue);
 
     // Update the h2 text to be the input value only
     output.textContent = inputValue;
